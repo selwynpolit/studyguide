@@ -6,16 +6,16 @@
 
 In this branch (`gh-pages`) you are invited to make changes or updates and help move this open source documentation along.
 
-The actual pages are in the book directory while the index file contains the markdown for the home page.
+The actual pages are in the `docs` directory while the `index.md` file contains the markdown for the home page.
 
 Please fork, edit and submit pull requests as you please.
 
 thanks
 
-Selwyn
+WebFirst Study Guide Team
 
-![views](https://api.visitor.plantree.me/visitor-badge/pv?label=views&color=informational&namespace=d9book&key=README.md)
-[![CI](https://github.com/selwynpolit/d9book/actions/workflows/ci.yml/badge.svg?branch=gh-pages)](https://github.com/selwynpolit/d9book/actions/workflows/ci.yml?query=branch%3Agh-pages)
-[![CD](https://github.com/selwynpolit/d9book/actions/workflows/cd.yml/badge.svg?branch=gh-pages)](https://github.com/selwynpolit/d9book/actions/workflows/cd.yml?query=branch%3Agh-pages)
+![views](https://api.visitor.plantree.me/visitor-badge/pv?label=views&color=informational&namespace=studyguide&key=README.md)
+[![CI](https://github.com/selwynpolit/studyguide/actions/workflows/ci.yml/badge.svg?branch=gh-pages)](https://github.com/selwynpolit/d9book/actions/workflows/ci.yml?query=branch%3Agh-pages)
+[![CD](https://github.com/selwynpolit/studyguide/actions/workflows/cd.yml/badge.svg?branch=gh-pages)](https://github.com/selwynpolit/d9book/actions/workflows/cd.yml?query=branch%3Agh-pages)
 
 Drupal is a registered trademark of Dries Buytaert.
