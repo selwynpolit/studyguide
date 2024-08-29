@@ -3,10 +3,12 @@ title: Introduction to the Acquia Certified Drupal 10 Developer Study Guide
 ---
 # Introduction
 
-## Fundamentals
-- [1.1 HTML/CSS](/developer/1.1-html-css)
-- [1.2 Javascript/jQuery](/developer/1.2-javascript-jquery)
-- [1.3 Source code control with git](/developer/1.3-git)
+Welcome to the Acquia Certified Drupal 10 Developer Study Guide. This guide is designed to help you prepare for the Acquia Certified Drupal 10 Developer exam. The exam is designed to test your knowledge of Drupal 10 development and your ability to apply that knowledge to real-world scenarios.
+
+As a Drupal developer, you will be responsible for building and maintaining Drupal websites, modules, and themes. You will need to have a solid understanding of Drupal's architecture, APIs, and best practices. You will also need to be familiar with the tools and techniques used to develop, test, and deploy Drupal websites.
+
+[Jump to the study guide](/developer/fundamental-web-dev-concepts)
+
 
 
 
