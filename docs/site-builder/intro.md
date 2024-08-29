@@ -1,5 +1,4 @@
 ---
 title: Introduction to the Acquia Certified Drupal 10 Developer Study Guide
 ---
-# Introduction to backend specialist study guide
-
+# Introduction to front end specialist study guide
