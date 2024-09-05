@@ -27,7 +27,6 @@ cache: true
 > View modes exist to allow Drupal site building tools like Entity Reference fields to request a given entity be rendered in a certain way.
 
 To see the list of View Modes navigate to `Structure` -> `Display modes` -> `View modes`.
-![View Modes List](images/display-modes-1.png "View Modes List")
 
 To update the available View Modes for a specific content type navigate to `Structure` -> `Content types` -> `Edit` -> `Manage display` -> `Custom Display Settings`.
 

@@ -20,19 +20,17 @@ To add a new vocabulary to your Taxonomy list:
 
 Navigate to `Structure` -> `Taxonomy` -> `Add vocabulary`.
 
-![Add new Taxonomy vocabulary](../../images/add-vocabulary.png "Add new vocabulary")
+![Add new Taxonomy vocabulary](/images/add-vocabulary.png "Add new vocabulary")
 
 ## Adding a Term Reference <Badge type="danger" text="outdated" />
 
 1. Navigate to `Structure` -> `Content types` -> `Manage fields` -> `Add field`.
 2. Pick `Taxonomy term` from the dropdown and provide a label.
 3. Click `Save and Continue`.
-![Add new term reference](images/taxonomies-2.png "Add new term")
 
 4. Select the type of item to reference. `Taxonomy reference`.
 5. Click `Save field settings`.
 6. Fill out the necessary fields.
-![Add new Taxonomy term - Save Settings](images/taxonomies-5.png "Save Settings")
 7. Click `Save settings`.
 
 ## Adding New Terms to Your Vocabulary 
@@ -41,7 +39,7 @@ To add new terms to your Vocabulary:
 
 Navigate to `Structure` -> `Taxonomy` -> `List terms` -> `Add term`.
 
-![Add new Taxonomy term](../../images/add-term.png "Add new term")
+![Add new Taxonomy term](/images/add-term.png "Add new term")
 
 ### Free Tagging
 > Allows new terms to be created right on the content editing form.
@@ -51,4 +49,3 @@ To enable the ability to add terms while editing content:
 2. Click `Edit` for your Term Reference field.
 3. Check `Create referenced entities if they don't already exist`.
 4. Using the dropdown, choose the vocabulary your new terms will be saved to.
-![Free tagging](images/taxonomies-4.png "Free tagging")
