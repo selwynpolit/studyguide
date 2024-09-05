@@ -74,7 +74,16 @@ export default defineConfig({
         items: [
           {text: 'Introduction', link: '/developer/intro.md'},
           {text: '1.0 Fundamental Web Development Concepts', link: '/developer/fundamental-web-dev-concepts.md'},
-          {text: '2.0 Site Building', link: '/developer/site-building.md'},
+          {
+            text: '2.0 Site Building',
+            link: '/developer/site-building.md',
+            collapsed: true,
+            items: [
+              {text: '2.1 Content Types', link: '/developer/site-building/content-types'},
+              {text: '2.2 Display Modes', link: '/developer/site-building/display-modes'},
+              {text: '2.3 Taxonomies', link: '/developer/site-building/taxonomies'},
+            ]
+          },
           {text: '3.0 Front end Development (Theming)', link: '/developer/front-end-dev-theming.md'},
           {text: '4.0 Back end Development (Coding)', link: '/developer/back-end-dev-coding/intro.md'},
         ]
