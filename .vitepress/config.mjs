@@ -82,7 +82,16 @@ export default defineConfig({
               {text: '1.3 Source code control with git', link: '/developer/1.3-git'},
               ]
           },
-          {text: '2.0 Site Building', link: '/developer/site-building.md'},
+          {
+            text: '2.0 Site Building',
+            link: '/developer/site-building.md',
+            collapsed: true,
+            items: [
+              {text: '2.1 Content Types', link: '/developer/site-building/content-types'},
+              {text: '2.2 Display Modes', link: '/developer/site-building/display-modes'},
+              {text: '2.3 Taxonomies', link: '/developer/site-building/taxonomies'},
+            ]
+          },
           {text: '3.0 Front end Development (Theming)', link: '/developer/front-end-dev-theming.md'},
           {text: '4.0 Back end Development (Coding)', link: '/developer/back-end-dev-coding/intro.md'},
         ]
