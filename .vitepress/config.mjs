@@ -84,6 +84,16 @@ export default defineConfig({
               {text: '2.3 Taxonomies', link: '/developer/site-building/taxonomies'},
             ]
           },
+          {
+            text: '1.0 Fundamental Web Development Concepts', link: '/developer/fundamental-web-dev-concepts.md',
+            collapsed: true,
+            items: [
+              {text: '1.1 HTML/CSS', link: '/developer/1.1-html-css'},
+              {text: '1.2 Javascript/jQuery', link: '/developer/1.2-javascript-jquery'},
+              {text: '1.3 Source code control with git', link: '/developer/1.3-git'},
+              ]
+          },
+          {text: '2.0 Site Building', link: '/developer/site-building.md'},
           {text: '3.0 Front end Development (Theming)', link: '/developer/front-end-dev-theming.md'},
           {text: '4.0 Back end Development (Coding)', link: '/developer/back-end-dev-coding/intro.md'},
         ]
