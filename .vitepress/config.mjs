@@ -100,13 +100,17 @@ export default defineConfig({
         text: 'Backend Specialist',
         items: [
           {text: 'Introduction', link: '/backend-specialist/intro.md'},
+          {text: '1.0 Fundamental Web Development Concepts', link: '/backend-specialist/fundamental-web-dev-concepts.md'},
           {
-            text: 'Section 2: Drupal core API',
-            link: '/backend-specialist/2-drupal-core-api.md',
+            text: '2.0 Drupal Core API', link: '/backend-specialist/2-drupal-core-api.md',
             items: [
               { text: '2.2 Form API', link: '/backend-specialist/2.2-form-api.md' },
             ]
           },
+          {text: '3.0 Debug Code and Troubleshooting', link: '/backend-specialist/debug-code-troubleshooting.md'},
+          {text: '4.0 Theme Integration', link: '/backend-specialist/backend-specialist/theming.md'},
+          {text: '6.0 Security', link: '/backend-specialist/backend-specialist/security.md'},
+          {text: '7.0 Leveraging Community', link: '/backend-specialist/leverage-community.md'},
         ]
       }
 
