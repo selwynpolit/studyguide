@@ -18,3 +18,6 @@ cache
 # Drupal site
 config/
 web/
+
+# Mac specific
+.DS_Store
