@@ -107,8 +107,8 @@ export default defineConfig({
               { text: '2.2 Form API', link: '/backend-specialist/2.2-form-api.md' },
             ]
           },
-          {text: '3.0 Debug Code and Troubleshooting', link: '/backend-specialist/debug-code-troubleshooting.md'},
-          {text: '4.0 Theme Integration', link: '/backend-specialist/backend-specialist/theming.md'},
+          {text: '3.0 Debug Code and Troubleshooting', link: '/backend-specialist/3-debug-code-troubleshooting.md'},
+          {text: '4.0 Theme Integration', link: '/backend-specialist/backend-specialist/theme-integration.md'},
           {text: '6.0 Security', link: '/backend-specialist/backend-specialist/security.md'},
           {text: '7.0 Leveraging Community', link: '/backend-specialist/leverage-community.md'},
         ]
