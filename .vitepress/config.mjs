@@ -90,10 +90,11 @@ export default defineConfig({
               {text: '2.1 Content Types', link: '/developer/site-building/content-types'},
               {text: '2.2 Display Modes', link: '/developer/site-building/display-modes'},
               {text: '2.3 Taxonomies', link: '/developer/site-building/taxonomies'},
+              {text: '2.7 Configuration Managemnt', link: '/developer/site-building/2.7-configuration-management'},
             ]
           },
           {
-            text: '3.0 Front-end Dev)',
+            text: '3.0 Front-end Dev',
             collapsed: true,
             items: [
               { text: '3.1 Creating Themes', link: '/developer/front-end/placeholder.md' },
@@ -110,6 +111,7 @@ export default defineConfig({
               {text: '4.1 OOP', link: '/developer/back-end/4.1-oop.md'},
               {text: '4.2 Custom Modules', link: '/developer/back-end/4.2-custom-modules.md'},
               {text: '4.3 Data Storage', link: '/developer/back-end/4.3-data-storage.md'},
+              {text: '4.4 Essential APIs', link: '/developer/back-end/4.4-essential-apis.md'},
               {text: '4.4 Blocks', link: '/developer/back-end/4.4-essential-apis-block.md'},
               {text: '4.4 Configuration', link: '/developer/back-end/4.4-essential-apis-configuration.md'},
               {text: '4.5 Coding Standards', link: '/developer/back-end/4.5-coding-standards.md'},
