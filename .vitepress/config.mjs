@@ -96,6 +96,7 @@ export default defineConfig({
             link: '/backend-specialist/2-drupal-core-api.md',
             items: [
               { text: '2.2 Form API', link: '/backend-specialist/2.2-form-api.md' },
+              { text: '2.3 Entity API', link: '/backend-specialist/2.2-entity-api.md' },
             ]
           },
         ]
