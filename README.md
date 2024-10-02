@@ -8,7 +8,9 @@ In this branch (`gh-pages`) you are invited to make changes or updates and help 
 
 The actual pages are in the `docs` directory while the `index.md` file contains the markdown for the home page.
 
-Please fork, edit and submit pull requests as you please.
+Please fork, edit and submit pull requests.
+
+Details for building this site locally are in the contribute.md file.
 
 thanks
 
