@@ -22,7 +22,7 @@
     "vitepress-plugin-image-viewer": "^1.1.5",
     "vitepress-plugin-tabs": "^0.5.0",
     "vitepress-sidebar": "^1.27.1",
-    "vue": "^3.5.10"
+    "vue": "^3.5.11"
   },
   "packageManager": "pnpm@9.2.0",
   "engines": {
