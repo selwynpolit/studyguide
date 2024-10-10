@@ -97,11 +97,11 @@ export default defineConfig({
             text: '3.0 Front-end Dev',
             collapsed: true,
             items: [
-              { text: '3.1 Creating Themes', link: '/developer/front-end/placeholder.md' },
-              { text: '3.2 Theming Concepts', link: '/developer/front-end/placeholder.md' },
-              { text: '3.3 Twig Syntax', link: '/developer/front-end/placeholder.md' },
-              { text: '3.4 Twig Templates', link: '/developer/front-end/placeholder.md' },
-              { text: '3.5 Preprocessors', link: '/developer/front-end/placeholder.md' },
+              { text: '3.1 Creating Themes', link: '/developer/front-end/3.1-creating-themes.md' },
+              { text: '3.2 Theming Concepts', link: '/developer/front-end/3.2-theming-concepts.md' },
+              { text: '3.3 Twig Syntax', link: '/developer/front-end/3.3-twig-syntax.md' },
+              { text: '3.4 Twig Templates', link: '/developer/front-end/3.4-twig-templates.md' },
+              { text: '3.5 Preprocessors', link: '/developer/front-end/3.5-preprocessors.md' },
             ]
           },
           {
