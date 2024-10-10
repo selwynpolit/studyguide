@@ -15,24 +15,18 @@ Topics with a score of 5 to 7 will need some preparation.
 Topics with a score below 5 may require a lot of preparation, or guided instruction.
 You may use the following table to carry out your evaluation.
 
-Acquia Certified Drupal 10 Developer self-assessment table¶
+Self-assessment table
 
 
-4	Back-end development (coding)
 
-4.1	Demonstrate ability to write code using core and object-oriented PHP.
-
-4.2	Demonstrate ability to develop custom modules using Drupal API for extending Drupal functionality.
-
-4.3	Demonstrate ability to store and retrieve data using code.
-
-4.4	Demonstrate ability to work with other essential APIs.
-
-4.5	Demonstrate ability to write code using Drupal coding standards.
-
-4.6	Demonstrate ability to analyze and resolve site performance issues arising from site configuration or custom code.
-
-4.7	Demonstrate ability to analyze and resolve security issues arising from site configuration or custom code.
-
-4.8	Demonstrate ability to write a test using the core testing framework.
-
+| Domain                        | Topic                                                                                  | Your Score (1-10) |
+|------------|----------------------------------------------------------------------------------------|-------------------|
+| 4                             | Back-end development (coding)                                                          |                   |
+| 4.1                           | Demonstrate ability to write code using core and object-oriented PHP.                  |                   |
+| 4.2                           | Demonstrate ability to develop custom modules using Drupal API for extending Drupal functionality. |                   |
+| 4.3                           | Demonstrate ability to store and retrieve data using code.                             |                   |
+| 4.4                           | Demonstrate ability to work with other essential APIs.                                 |                   |
+| 4.5                           | Demonstrate ability to write code using Drupal coding standards.                       |                   |
+| 4.6                           | Demonstrate ability to analyze and resolve site performance issues arising from site configuration or custom code. |                   |
+| 4.7                           | Demonstrate ability to analyze and resolve security issues arising from site configuration or custom code. |                   |
+| 4.8                           | Demonstrate ability to write a test using the core testing framework.                  |                   |

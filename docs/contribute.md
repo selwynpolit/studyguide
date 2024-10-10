@@ -6,7 +6,6 @@ title: Contributing to this project
 
 This is a study guide for developers who want to get Acquia certified. It is divided into guides related to each of the certification tests. 
 
-![Drupal logo](/images/drupal-logo-horizontal-blue.png)
 
 Github has a very convenient set of tools which allow you to easily make changes via the web interface. You can also use the web interface to create a pull request. The easiest way to suggest changes is to use the "Edit this page on GitHub" link at the bottom of each page. This will take you to the source file for the page you are on. You can then click the pencil icon to edit the file.
 
@@ -55,5 +54,7 @@ pnpm update
 - [First contributions](https://github.com/firstcontributions/first-contributions) is a great place to start if you are new to contributing to open source projects.
 - [Vitepress Markdown Extensions](https://vitepress.dev/guide/markdown) - Vitepress has some cool markdown extensions that are usedin this book to make the content more interesting and interactive.
 
+
+![Drupal logo](/images/drupal-logo-horizontal-blue.png)
 
 
