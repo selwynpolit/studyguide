@@ -92,7 +92,7 @@ export default defineConfig({
               {text: '2.3 Taxonomies', link: '/developer/site-building/2.3-taxonomies'},
               {text: '2.4 Blocks', link: '/developer/site-building/2.4-blocks'},
               {text: '2.5 Menus', link: '/developer/site-building/2.5-menus'},
-              {text: '2.6 Views*', link: '/developer/site-building/2.6-views'},
+              {text: '2.6 Views', link: '/developer/site-building/2.6-views'},
               {text: '2.7 Configuration Management*', link: '/developer/site-building/2.7-configuration-management'},
               {text: '2.8 Multilingual*', link: '/developer/site-building/2.8-multilingual'},
               {text: '2.9 Web Services*', link: '/developer/site-building/2.9-web-services'},
