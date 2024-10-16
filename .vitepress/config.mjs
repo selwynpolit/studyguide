@@ -154,6 +154,7 @@ export default defineConfig({
             text: '2.0 Drupal Core API', link: '/backend-specialist/2-drupal-core-api.md',
             items: [
               { text: '2.2 Form API', link: '/backend-specialist/2.2-form-api.md' },
+              { text: '2.3 Entity API', link: '/backend-specialist/2.3-entity-api.md' },
             ]
           },
           {text: '3.0 Debug Code and Troubleshooting', link: '/backend-specialist/3-debug-code-troubleshooting.md'},
