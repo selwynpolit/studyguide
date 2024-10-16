@@ -44,5 +44,5 @@ As a Drupal developer, you will be responsible for building and maintaining Drup
 |TOTAL	| 100            |
 
 
-# Resources
+## Resources
 - [Acquia Certified Drupal 10 Developer Study Guide](https://docs.acquia.com/acquia-academy/study-guides/d10-certified-developer)
