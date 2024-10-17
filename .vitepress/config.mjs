@@ -12,7 +12,7 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   head: [
-    ['link', { rel: 'icon', href: '/docs/images/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/studyguide/docs/images/favicon.ico' }],
     [
       'script',
       {
