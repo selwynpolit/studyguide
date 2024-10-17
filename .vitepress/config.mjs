@@ -137,8 +137,8 @@ export default defineConfig({
                 ]
               },
               {text: '4.5 Coding Standards', link: '/developer/back-end/4.5-coding-standards.md'},
-              {text: '4.6 Performance*', link: '/developer/back-end/4.6-performance.md'},
-              {text: '4.7 Security*', link: '/developer/back-end/4.7-security.md'},
+              {text: '4.6 Performance', link: '/developer/back-end/4.6-performance.md'},
+              {text: '4.7 Security', link: '/developer/back-end/4.7-security.md'},
             ]
           },
 
