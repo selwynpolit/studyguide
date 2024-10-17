@@ -6,7 +6,7 @@ export default defineConfig({
   title: 'Drupal Study Guide',
   description:
     'Acquia Drupal certification study guide',
-  base: '/',
+  base: '/studyguide/',
   srcDir: './docs',
   outDir: './dist',
   cleanUrls: true,
