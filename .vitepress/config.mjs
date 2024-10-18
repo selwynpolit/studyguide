@@ -6,13 +6,13 @@ export default defineConfig({
   title: 'Drupal Study Guide',
   description:
     'Acquia Drupal certification study guide',
-  base: '/studyguide/',
+  base: '/studyguide',
   srcDir: './docs',
   outDir: './dist',
   cleanUrls: true,
   lastUpdated: true,
   head: [
-    ['link', { rel: 'icon', href: '/studyguide/docs/images/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/studyguide/images/favicon.ico' }],
     [
       'script',
       {
