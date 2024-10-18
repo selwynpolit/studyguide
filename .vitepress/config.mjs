@@ -93,7 +93,7 @@ export default defineConfig({
               {text: '2.4 Blocks', link: '/developer/site-building/2.4-blocks'},
               {text: '2.5 Menus', link: '/developer/site-building/2.5-menus'},
               {text: '2.6 Views', link: '/developer/site-building/2.6-views'},
-              {text: '2.7 Configuration Management*', link: '/developer/site-building/2.7-configuration-management'},
+              {text: '2.7 Configuration Management', link: '/developer/site-building/2.7-configuration-management'},
               {text: '2.8 Multilingual*', link: '/developer/site-building/2.8-multilingual'},
               {text: '2.9 Web Services*', link: '/developer/site-building/2.9-web-services'},
             ]
@@ -174,8 +174,8 @@ export default defineConfig({
     footer: {
       message:
         '<span>\n' +
-        '  <a property="dct:title" rel="cc:attributionURL" href="//selwynpolit.github.io/d9book">Drupal at your fingertips</a>\n' +
-        '  by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="//drupal.org/u/selwynpolit">Selwyn Polit</a>\n' +
+        '  <a property="dct:title" rel="cc:attributionURL" href="//selwynpolit.github.io/d9book">Drupal Study Guide</a>\n' +
+        '  by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.webfirst.com/" target="_blank">WebFirst</a>\n' +
         '  is licensed under <a href="//creativecommons.org/licenses/by/4.0/" target="_blank" rel="license noopener noreferrer">CC BY 4.0\n' +
         '  </a><br>Drupal is a registered trademark of Dries Buytaert</span>',
     },

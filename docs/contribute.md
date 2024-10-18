@@ -4,9 +4,11 @@ title: Contributing to this project
 
 # Contributing to this project
 
-This is a study guide for developers who want to get Acquia certified. It is divided into guides related to each of the certification tests. 
+This is a study guide for developers who want to get Acquia certified. It is divided into guides related to each of the 4 certification tests. 
 
 
+
+## Github
 Github has a very convenient set of tools which allow you to easily make changes via the web interface. You can also use the web interface to create a pull request. The easiest way to suggest changes is to use the "Edit this page on GitHub" link at the bottom of each page. This will take you to the source file for the page you are on. You can then click the pencil icon to edit the file.
 
 You can then make your changes and create a pull request. Please make sure that the target branch is `gh-pages`. This is the branch that is used to build the site.
@@ -15,7 +17,21 @@ Alternatively, you could start with forking the repo using the "Fork me" button 
 
 When you create a pull request, please make sure that the target branch is `gh-pages`. This is the branch that is used to build the site. I will review the changes and merge them into the site if they are appropriate.
 
-# Setting up and running a local copy of the site on your mac
+
+## Guidelines/Suggestions
+
+- Please try to ensure that your changes are accurate, relevant, and easy to understand.
+- Please pay attention to formatting. The theme should take care of most of that for you.
+- Your target audience is Drupal developers who have been developing for Drupal for at least 1 year and are studying for the Acquia certification tests. Please keep this in mind when making changes.
+- For links, please specify the date updated in the link text. For example:
+    - [Views Overview at Drupal.org updated May 2023](https://www.drupal.org/docs/8/core/modules/views)
+- Check out the [resources](#resources) below for markdown guides and Vitepress markdown extensions.
+- Be sure to gate your code snippets with the appropriate language. You need to use the triple backticks and specify the language. Note. twig is especially problematic if you don't wrap it in the triple backticks and specify twig. Failing this will cause the page not to be built correctly.
+- All images go in `/docs/public/images` directory and are referred to in markdown using the `/images/` path. e.g. `![My Image](/images/my-image.png)`
+
+
+
+## Setting up and running a local copy of the site on your mac
 
 This will let you make edits and see them in real time. It is useful for testing changes before submitting a pull request especially if you want to try some of the cool magic that [Vitepress](https://vitepress.dev/) can do. Check out the [Vitepress Markdown Extensions](https://vitepress.dev/guide/markdown#markdown-extensions) for more.
 
