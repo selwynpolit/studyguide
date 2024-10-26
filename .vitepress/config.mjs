@@ -26,7 +26,7 @@ export default defineConfig({
     },
   },
   themeConfig: {
-    logo: '/docs/images/d9book.svg',
+    logo: '/images/d9book.svg',
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
